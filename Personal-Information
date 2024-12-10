@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Personal Information</title>
+</head>
+<body style="font-family: Verdana;">
+
+    <!-- Centered Heading -->
+    <center>
+        <h1>PERSONAL INFORMATION</h1>
+    </center>
+
+    <!-- Display Profile Image -->
+    <img src="	https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png" width="110" height="110">
+
+    <!-- Personal Information Section -->
+    <p><b>Name:</b>	Kristine Joy B. Humilde </p>
+    <p><b>Mobile:</b> 09068916704 </p>
+    <p><b>Email:</b> kristinejoy.humilde@gmail.com</p>
+    <p><b>Gender:</b> Female</p>
+    <p><b>Date of Birth:</b> January 19, 1998 </p>
+    <p><b>Marital Status:</b> In a Relationship </p>
+    <p><b>Address:</b>	Poblacion, Norala, South Cotabato </p>
+    <p><b>Religion:</b>	Roman Catholic</p>
+    <p><b>Language:</b>	Ilonggo </p>
+    <p><b>Experience:</b> Service Crew at Crossing Drink and Chill </p>
+
+</body>
+</html>
